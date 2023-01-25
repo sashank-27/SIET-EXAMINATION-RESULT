@@ -6,12 +6,12 @@
     background-image: url(clg.png);
     background-size: cover;
     position: absolute;
-    width: 100%;
+    width: 100vmax;
     height: 180px;
     background-position-y: -55px;
 }
 .overlay{
-    width: 100%;
+    width: 100vmax;
     height: 180px;
     background: #003a6a;
     opacity: .8;
